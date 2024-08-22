@@ -4,3 +4,5 @@ Azul
 Blanco
 Rojo
 Amarillo
+Negro
+Azul
